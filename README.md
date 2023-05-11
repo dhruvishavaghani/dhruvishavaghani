@@ -11,12 +11,12 @@
 - 💬 Ask me about Development, DSA
 - 📫 How to reach me: dhruvishavaghani0509@gmail.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvishavaghani&show_icons=true&locale=en" alt="dhruvishavaghani" />
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvishavaghani&show_icons=true&locale=en" alt="dhruvishavaghani" /> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisargpipaliya&" alt="dhruvishavaghani" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvishavaghani&show_icons=true&locale=en&layout=compact" alt="dhruvishavaghani" /></p>
+<!-- <p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvishavaghani&show_icons=true&locale=en&layout=compact" alt="dhruvishavaghani" /></p> -->
 
 
 
